@@ -1,0 +1,220 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+.buy-btn{
+    margin-right: 40px
+  }
+  
+  .header-top ul{
+    margin-left: 90px
+  } 
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+ .buy-btn{
+    margin-right: 40px
+  }
+  
+  .header-top ul{
+    margin-left: -10px
+  } 
+    
+    .navbar-nav{
+        margin-left:50px!important;;
+        font-size: 12px!important;
+    }   
+    .navbar-nav li a{
+        font-size: 14px
+    }
+    
+    .navbar-nav li{
+        margin-right:-10px
+    }
+ 
+ .brand img{
+   max-width: 120px;
+  
+}   
+ .portfolio-text p{
+    font-size: 15px;
+}   
+    
+    
+
+.footer-icon li{
+    margin-right: 10px;
+    padding:12px
+    
+}
+    
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .header-area ul{
+      margin:0 74% !important;
+   
+    }  
+   
+   .responsive{
+        color: red;
+        font-size: 40px
+    }  
+  .navbar-nav .nav-link{
+    color: #fff!important;
+    background: linear-gradient(145deg, #f81f01 0%, #ee076e 100%);;
+    border-bottom:1px solid#fff;
+      width: 250px;
+      padding: 12px 28px !important;
+      
+  }
+  .navbar-nav .nav-link:hover{
+    background: red;
+    border-bottom:1px solid #fff;
+    color: #fff!important;
+  }     
+    
+   
+    
+  .portfolio-text p{
+    font-size: 14px;
+      width: 200px;
+      line-height: 24px
+}   
+    
+ .hover-text{
+  margin-top:60%;
+  
+}
+   
+    .contact-title h2{
+       font-size: 33px
+    }   
+    
+    .contact-img img{
+        height: 500px
+    }    
+    
+ .footer-icon li{
+    margin-right: 5px;
+    padding:7px;
+font-size: 10px;
+     margin-top:10px
+    
+}  
+    .footer-logo img{
+        width: 120px
+    }  
+    
+    
+    .footer-text p{
+        font-size: 13px
+    }   
+    
+    
+    
+    
+    
+    
+    }
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+   .header-area ul{
+      margin:0 74% !important;
+   
+    }  
+   
+ .responsive{
+        color: red;
+        font-size: 40px
+    } 
+  .navbar-nav .nav-link{
+    color: #fff!important;
+    background: linear-gradient(145deg, #f81f01 0%, #ee076e 100%);;
+    border-bottom:1px solid#fff;
+      width: 200px;
+      padding: 12px 28px !important;
+  }
+  .navbar-nav .nav-link:hover{
+    background: red;
+    border-bottom:1px solid #fff;
+    color: #fff!important;
+  }     
+    
+    
+    
+    
+    
+    .home-content h1 {
+        font-size: 50px;
+    }
+
+    .home {
+        padding: 240px 0 200px 0;
+    }
+   
+ .about-right-text{
+padding: 50px ;
+
+}  
+    
+    .about-left-text{
+       margin-left: 30px
+    }   
+    
+    
+    .portfolio-title h2{
+        font-size:40px 
+    }  
+    
+    
+    .portfolio .single-course-img img{
+        width: 500px
+    } 
+    
+
+    
+    .portfolio-title p{
+        font-size: 15px;
+        line-height: 32px
+    }  
+    
+  
+ .course-area .section-title p{
+        font-size: 15px
+    }   
+    
+    .contact-img {
+        margin-top:40px
+    }   
+    .contact-title h2{
+        font-size: 40px
+    }
+    
+    .contact-title p{
+        font-size: 14px;
+        width: 550px
+    }  
+.footer-icon li{
+    margin-right: 10px;
+    padding:7px;
+font-size: 14px;
+     margin-top:10px
+    
+}      
+    
+    .footer-text{
+        text-align: center
+    }    
+    
+  
+    
+    
+    
+    
+    
+    
+    }
